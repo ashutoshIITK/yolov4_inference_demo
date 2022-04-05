@@ -5,6 +5,13 @@ __pycache__/
 
 # C extensions
 *.so
+*.jpeg
+*.png
+*.avi
+*.mp4
+*.npy
+*.weights
+*.pt
 
 # Distribution / packaging
 .Python
