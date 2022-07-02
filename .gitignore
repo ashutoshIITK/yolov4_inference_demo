@@ -12,7 +12,9 @@ __pycache__/
 *.npy
 *.weights
 *.pt
-
+*.jpg
+*.png
+*.xml
 # Distribution / packaging
 .Python
 build/
